@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://www.encora.com"><img src="https://www.encora.com/hubfs/Website_Assets/brand/encora-logo.svg"></a>
-</p>
-
 ## Features
 1. [Login]
 2. [Add new product]
@@ -17,7 +13,7 @@ password:- admin123
 [Encora test](https://www.encora.com) This is a test repository which is a SPA built using Vue.js CLI. It uses Vuex, Vue Router and bootstrapvue to make this repository much powerful.
 
 **For Developers**:
-This repository uses local-storage to store current user and added produc
+This repository uses local-storage to store current user and added product
 
 ## Project setup
 ```
